@@ -31,8 +31,7 @@ Use this to manage and maintain your company's database. -->
   
 <h2 id= "screenshots">Screenshots</h2>
 
-![Image of the App Test](./public/images/budget.gif "gif of the application tests")
-<!-- ![Image of the App Test](Thoughts_Reactions.gif "gif of the application tests") -->
+![Image of the App Test](./public/images/screen/png "gif of the application tests")
 
 
 <h2 id= "contact">Contact</h2>
@@ -43,8 +42,10 @@ Use this to manage and maintain your company's database. -->
 <li>LinkedIn: https://www.linkedin.com/in/damaris-c-870a1472/</li> 
 
     
-<!-- <h2 id= "tests">Tests</h2>
+<h2 id= "tests">Tests</h2>
 
-View the [User & Friends walkthrough video here.](https://drive.google.com/file/d/1pKuDDpCjFXYS8vo5ZYWKmn8jSJZ-cIWe/view)
+![Image of the App Test](./public/images/budget.gif "gif of the application tests")
+
+<!-- View the [User & Friends walkthrough video here.](https://drive.google.com/file/d/1pKuDDpCjFXYS8vo5ZYWKmn8jSJZ-cIWe/view)
  <br/>
 View the [Thoughts & Reactions walkthrough video here.](https://drive.google.com/file/d/1JZ5KGrK6M1DqUaJ9z1q1XQ_CBd0IcoiA/view)  -->
