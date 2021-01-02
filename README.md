@@ -31,7 +31,7 @@ Use this to manage and maintain your company's database. -->
   
 <h2 id= "screenshots">Screenshots</h2>
 
-![Image of the App Test](./public/images/screen/png "gif of the application tests")
+<img src="./public/images/screen.png" alt="photo of working app">
 
 
 <h2 id= "contact">Contact</h2>
